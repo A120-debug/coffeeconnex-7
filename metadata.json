@@ -1,0 +1,7 @@
+{
+  "name": "CoffeeConnex",
+  "description": "An AI-powered mentorship and networking platform connecting students with professionals for coffee chats, featuring AI coaching, matching, and request sorting.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
